@@ -46,8 +46,7 @@ cd Fejer_Drift
 run Plot_Drift_Ey_Evento/Plot_Drift_Ey_Evento.m
 ```
 
-3. Os gráficos com 8 subplots serão gerados automaticamente mostrando E_total, Bz, SymH, Vd_mean, Vd_storm, Vd_total, PPEF e DDEF para agosto de 2017.
-As figuras serão salvas na pasta images/.
+3. Os gráficos com 8 subplots serão gerados automaticamente mostrando E_total, Bz, SymH, Vd_mean, Vd_storm, Vd_total, PPEF e DDEF para agosto de 2017. As figuras serão salvas na pasta images/.
 
 ---
 
